@@ -57,7 +57,7 @@ Helper functions for data preprocessing and evaluation are provided in the utils
 Citation
 
 
-@article{greeshma2025automated,
+1. @article{greeshma2025automated,
   title={Automated tuberculosis diagnosis: A hybrid approach using attention-residual U-Net segmentation with ensemble classification},
   author={Greeshma, K and Vishnukumar, S},
   journal={Franklin Open},
@@ -67,7 +67,7 @@ Citation
 }
 
 
-Vision Transformer architecture implementation for classifying RoIs into bacilli and non bacilli.
+2. Vision Transformer architecture implementation for classifying RoIs into bacilli and non bacilli.
 @misc{k2025efficientaccuratetuberculosisdiagnosis,
       title={Efficient and Accurate Tuberculosis Diagnosis: Attention Residual U-Net and Vision Transformer Based Detection Framework}, 
       author={Greeshma K and Vishnukumar S},
