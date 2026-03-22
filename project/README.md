@@ -67,7 +67,7 @@ Citation
 }
 
 
-- ViT.py: Vision Transformer architecture implementation for classifying RoIs into bacilli and non bacilli.
+Vision Transformer architecture implementation for classifying RoIs into bacilli and non bacilli.
 @misc{k2025efficientaccuratetuberculosisdiagnosis,
       title={Efficient and Accurate Tuberculosis Diagnosis: Attention Residual U-Net and Vision Transformer Based Detection Framework}, 
       author={Greeshma K and Vishnukumar S},
