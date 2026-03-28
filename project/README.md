@@ -163,8 +163,8 @@ If you use this dataset, please cite it as:
   title        = {Tuberculosis Bacilli Detection Dataset: Ziehl–Neelsen Stained Sputum Smear Microscopic Images with Expert Annotations},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.19280029},
+  url          = {https://doi.org/10.5281/zenodo.19280029}
 }
 ```
 
