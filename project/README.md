@@ -9,10 +9,9 @@ This repository contains code for tuberculosis bacilli detection using an Attent
 ```plaintext id="pc5cf8"
 /
 ├── segmentation/         # Contains the segmentation code using Attention-Residual U-Net
-├── classification/       # Contains the ensemble classification code (SVM, RF, XGB, and Voting Classifier)
+├── classification/       # Contains Vision Transformer architecture for RoI classification
 ├── utils/                # Helper scripts for data preprocessing and evaluation
 ├── dataset/              # Full microscopic image dataset and corresponding ground truth
-├── ViT.py                # Vision Transformer architecture for RoI classification
 └── README.md             # Instructions and details about the project
 ```
 
