@@ -49,19 +49,8 @@ Run the segmentation script to generate masks for input images:
 python unet_segmentation.py
 ```
 
-### 2. Ensemble Classification
 
-Navigate to the classification/ folder.
-
-Ensure your dataset is organized into folders for different classes.
-
-Run the ensemble classification script to train the models:
-
-```bash id="vbe8aq"
-python ensemble_classifier.py
-```
-
-### 3. Vision Transformer Classification
+### 2. Vision Transformer Classification
 
 The `ViT.py` file contains the Vision Transformer architecture for classifying Regions of Interest (RoIs).
 
@@ -126,37 +115,18 @@ Users of this dataset are requested to appropriately acknowledge the State TB Ce
 
 ## Citation
 
-```bibtex id="wk5sdv"
-@article{greeshma2025automated,
-  title={Automated tuberculosis diagnosis: A hybrid approach using attention-residual U-Net segmentation with ensemble classification},
-  author={Greeshma, K and Vishnukumar, S},
-  journal={Franklin Open},
-  pages={100479},
-  year={2025},
-  publisher={Elsevier}
-}
-```
 
 Vision Transformer architecture implementation for classifying RoIs into bacilli and non bacilli.
 
-```bibtex id="h5kc80"
-@misc{k2025efficientaccuratetuberculosisdiagnosis,
-  title={Efficient and Accurate Tuberculosis Diagnosis: Attention Residual U-Net and Vision Transformer Based Detection Framework},
-  author={Greeshma K and Vishnukumar S},
-  year={2025},
-  eprint={2501.03538},
-  archivePrefix={arXiv},
-  primaryClass={eess.IV},
-  url={https://arxiv.org/abs/2501.03538}
-}
-```
+1. This code is related to the article titled as "Tuberculosis Bacilli Detection Enhanced: A Hybrid Attention Residual U-Net and Vision Transformer Approach" which is under consideration for publication at "The Visual Computer", Springer journal.  
 
 ---
 
 ## Dataset Citation
 
-If you use this dataset, please cite it as:
+If you use this dataset, please cite both dataset and the article submitted at The Visual Computer as:
 
+1. Dataset -
 ```bibtex id="ow8f5r"
 @dataset{greeshma_tb_dataset_2026,
   author       = {Greeshma K and Vishnukumar S},
@@ -166,6 +136,8 @@ If you use this dataset, please cite it as:
   doi          = {10.5281/zenodo.19280029},
   url          = {https://doi.org/10.5281/zenodo.19280029}
 }
+
 ```
+2. Article is under consideration at "The Visual Computer", Springer journal. 
 
 ---
